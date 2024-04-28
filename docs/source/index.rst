@@ -1,22 +1,19 @@
-Welcome to Lumache's documentation!
-===================================
+Documentación para la API de NovaChess
+======================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**NovaChess** es una plataforma multijugador para jugar ajedrez, que expone una **API Rest** tanto para la manipulación de las cuentas y de las partidas, como de las acciones del juego en sí.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Aquí esta la documentación de la **API** junto a la definición de los :doc:`types` que recibe y envía la API.
 
 .. note::
 
-   This project is under active development.
+   Este proyecto esta en desarrollo.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
+   api_jugadas
    api
+   types

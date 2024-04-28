@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'NovaChess'
+copyright = 'EmanuelM153'
+author = 'EmanuelM153'
 
 release = '0.1'
 version = '0.1.0'
